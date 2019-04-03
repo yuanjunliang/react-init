@@ -1,5 +1,5 @@
 {
-  "name": "react-init",
+  "name": "react-webpack-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuanjunliang/react-init.git"
+    "url": "git+https://github.com/yuanjunliang/react-webpack-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yuanjunliang/react-init/issues"
+    "url": "https://github.com/yuanjunliang/react-webpack-app/issues"
   },
-  "homepage": "https://github.com/yuanjunliang/react-init#readme",
+  "homepage": "https://github.com/yuanjunliang/react-webpack-app#readme",
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
