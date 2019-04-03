@@ -1,1 +1,1 @@
-# react-init
+# dapppstore_react
